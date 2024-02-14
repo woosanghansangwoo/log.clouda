@@ -41,7 +41,7 @@ const CONFIG = {
   googleAnalytics: {
     enable: false,
     config: {
-      measurementId: process.env.NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID || "",
+      measurementId: process.env.NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID || "G-HZZW5N6BSM",
     },
   },
   googleSearchConsole: {
@@ -59,7 +59,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
+      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "woosanghansangwoo/log.clouda",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
