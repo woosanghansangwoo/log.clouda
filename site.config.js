@@ -6,9 +6,9 @@ const CONFIG = {
     role: "Devops Engineer",
     bio: "",
     email: "admin@clouda.cloud",
-    linkedin: "",
+    linkedin: "devwooops",
     github: "",
-    instagram: "",
+    instagram: "woosang_han",
   },
   projects: 
   [
