@@ -59,7 +59,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "log.clouda.comment",
+      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "woosanghansangwoo/log.clouda.comment",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
