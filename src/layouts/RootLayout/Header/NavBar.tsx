@@ -12,6 +12,8 @@ const NavBar: React.FC = () => {
           </li>
         ))}
       </ul>
+
+     
     </StyledWrapper>
   )
 }
