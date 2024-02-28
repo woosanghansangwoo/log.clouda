@@ -18,8 +18,6 @@ const Header: React.FC<Props> = ({ fullWidth }) => {
           <NavBar />
         </div>
       </div>
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7990945222251762"
-     crossorigin="anonymous"></script> 
     </StyledWrapper>
   )
 }
